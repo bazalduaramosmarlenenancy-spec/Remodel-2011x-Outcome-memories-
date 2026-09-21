@@ -1,1 +1,320 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('7 1i=U:2j("1i")7 1b=U:2j("1b")7 I=1i.3t 7 B=I.2h d I.1N:3s()7 21=3r 7 H=s 7 h=m 7 p=m 7 N={}7 Z={}7 10=s 7 x={}7 k=m 7 g 22(2i)7 1f,P=28(U.27,U,"26://"..2i)b c 1f d c P d#P==0 8 f m 6 f P[1]:25()6 7 g 15()7 1L=3q:14("1i")f 1L j 1L:14(I.F)6 7 g 1k()7 1K=15()f 1K j 1K:18("2h")=="3p"6 7 g 1U()C.Q(x)7 E=15()7 g 1J(R)b c R 8 f 6 u M,v L K(R:J())t b v:l("q")j c(h j v:1S(h))8 C.1R(x,v)6 6 6 1J(B)1J(E)6--3o 1F 3n 1E 1I e 2c 3m 3l 3k 2f 3j 7 g 1P(2g)b c h 8 f 6 b 2g 8--3i 1F 2e 1E 1I 3h 3g 2f 3f o 3e b c k d c k.n 8 k=24.23("2e")k.F="3d"k.3c=1H.1G(3b,0,0)--2d 1I k.3a=0.4--39 38 k.37=1H.1G(36,0,0)k.35=0.2 k.34=33.32.31 k.n=h 6 u M,v L K(h:J())t b v:l("q")8 7 1a=N[v]d 0--2Z 2Y 2b 2X 2W 2a(2V/2U)b 1a<0.9 j v.F~="S"j v.F~="1Z"8 v.z=0.2T v.1x=1H.1G(2S,0,0)--2d 2c 6 6 6 1l--2R 1F 2Q 1E y 2P a 2b 2O y 2N 2a b k 8 k:w()k=m 6 u M,v L K(h:J())t b v:l("q")d v:l("1X")d v:l("1W")8 7 1a=N[v]v.z=1a~=m j 1a d 0 b v:l("q")8 7 1D=Z[v]b 1D 8 v.1x=1D 6 6 1Y v:l("2M")d v:l("2L")d v:l("2K")8 v.2J=W 6 6 6 6 7 g 1Q()7 E=15()7 19=E d B b c 19 8 f s 6 7 1C=19:18("29")d 19:18("2I")d 19:18("2H")d I:18("29")b 1C~=m 8 f 1C==W 6 7 1g=0 7 17=0 u i=1,#x t 7 v=x[i]b v j v.n 8 7 1h=v.F:2G()b c 1h:1B("2F")j c 1h:1B("2E")j c 1h:1B("2D")8 17=17+1 b v.z>0.5 8 1g=1g+1 6 6 6 6 b 17>0 8 f(1g/17)>=0.5 6 f s 6 7 g 1n()1c.2C(g()7 1A=I.2B:V("2A",30):V("2z",30):V("2y",30):V("2x",30)b c 1A 8 f 6 7 T=1A:V("2w",30):V("2v",30)b c T 8 f 6 7 A=m 7 g 1y()7 1f,P=28(U.27,U,"26://"..2u)b c 1f d#P==0 8 f 6 b A j A.n 8 A:w()A=m 6 7 G=P[1]:25()A=G u M,D L K(T:J())t b D:l("q")j D.F~="S"8 D.z=1 6 6 7 1z=G:1v("1V")b 1z 8 1z:w()6 u M,v L K(G:J())t b v:l("q")8 v.20=s 6 6 G.n=T 7 16=T:14("S")7 1e=G.2t d G:2s("q")b 16 j 1e 8 G:2r(16.11)1e.z=1 7 1d=24.23("2q")1d.2p=16 1d.2o=1e 1d.n=16 6 6 1y()T.1T:Y(g()1c.1q(0.1)b c A d c A.n 8 A=m 1y()6 6)6)6 7 g 1p(13)b c H 8 f 6 b p 8 p:1r()p=m 6 C.Q(N)C.Q(Z)10=s b h j h.n 8 h:w()h=m 6 7 E=15()7 r=22(21)b c r 8 f 6 u M,v L K(r:J())t b v:l("q")8 v.20=s b v.F=="S"d v.F=="1Z"8 v.z=1 6 N[v]=v.z Z[v]=v.1x 1Y v:l("1X")d v:l("1W")8 N[v]=v.z 6 6 b E 8 r.n=E 1l r.n=13 6 7 12=13:14("S")7 O=r:14("S")b c 12 d c O 8 r:w()f 6 O.2n=W O.z=1 7 1w=r:1v("1V")b 1w 8 1w:w()6 7 1u=r:1v("2m")b 1u 8 1u:w()6 O.11=12.11 h=r 1U()7 g 1t(R)b c R 8 f 6 R.1T:Y(g(v)b v:l("q")j c(h j v:1S(h))8 C.1R(x,v)6 6)6 1t(13)1t(E)p=1b.2l:Y(g()b c 13.n d c 12.n d c O.n 8 b p 8 p:1r()p=m 6 f 6 O.11=12.11 u i=1,#x t 7 D=x[i]b D j D.n 8 D.1O=1 6 6 7 1s=1Q()b 1s~=10 8 10=1s 1P(10)6 6)6 7 g 1j()b H 8 f 6 1c.1q(3)H=W 1n()b B 8 1p(B)6 6 7 g 1M()b c H 8 f 6 H=s b p 8 p:1r()p=m 6 C.Q(N)C.Q(Z)C.Q(x)b k 8 k:w()k=m 6 b h j h.n 8 h:w()h=m 6 b B 8 u M,v L K(B:J())t b v:l("q")8 v.1O=0 6 6 6 6 I.1N:Y(g(1o)B=1o b H 8 1c.1q(1)1p(1o)1n()6 6)7 X=s 1b.2k:Y(g()7 1m=1k()b 1m~=X 8 X=1m b X 8 1j()1l 1M()6 6 6)b 1k()8 X=W 1j()6',62,216,'||||||end|local|then|||if|not|or||return|function|currentMdl||and|invisHighlight|IsA|nil|Parent||syncConn|BasePart|mdl|false|do|for||Destroy|cachedGameParts||Transparency|vpOverrideModel|character|table|part|oldVisual|Name|newModel|isScriptActive|player|GetDescendants|ipairs|in|_|originalTransparencies|newHrp|objects|clear|parent|HumanoidRootPart|viewportModel|game|WaitForChild|true|isCurrentlyTailsDoll|Connect|originalColors|isCurrentlyInvisible|CFrame|hrp|char|FindFirstChild|getPlayerModel|viewportHRP|totalCount|GetAttribute|source|origT|RunService|task|weld|primaryPart|ok|transparentCount|name|Players|startScript|isTailsDoll|else|check|setupViewport|newChar|setupCharacter|wait|Disconnect|shouldBeInvisible|listenForChanges|mdlAnim|FindFirstChildOfClass|mdlHum|Color|replaceViewportModel|newHum|viewportFrame|find|invAttr|origC|rojo|el|fromRGB|Color3|puro|addPartsFrom|model|playersFolder|stopScript|CharacterAdded|LocalTransparencyModifier|setCustomModelInvisible|checkGameInvisibility|insert|IsDescendantOf|DescendantAdded|updateCachedParts|Humanoid|Texture|Decal|elseif|Waist|CanCollide|ASSET_ID|loadAsset|new|Instance|Clone|rbxassetid|GetObjects|pcall|Invisible|originales|las|intenso|Rojo|Highlight|de|invisible|Character|id|GetService|Heartbeat|RenderStepped|Animator|Anchored|Part1|Part0|WeldConstraint|PivotTo|FindFirstChildWhichIsA|PrimaryPart|81352974023012|Default|WorldModel|ViewportFrame|SurvivorHP|Game|Round|PlayerGui|spawn|hitbox|waist|root|lower|Stealth|Invis|Enabled|Beam|Trail|ParticleEmitter|colores|texturas|volver|efecto|Quitar|220|45|hitboxes|cubos|invisibles|partes|ocultas|Mantiene||AlwaysOnTop|HighlightDepthMode|Enum|DepthMode|OutlineTransparency|180|OutlineColor|equilibrada|Transparencia|FillTransparency|255|FillColor|InvisRedEffect|azul|verde|matices|sin|Crear|invisibilidad|habilidad|la|durante|tono|Activa|2011x|workspace|128586608703896|Wait|LocalPlayer'.split('|'),0,{}))
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+
+local player = Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local ASSET_ID = 128586608703896
+local isScriptActive = false
+local currentMdl = nil
+local syncConn = nil
+local originalTransparencies = {}
+local originalColors = {}
+local isCurrentlyInvisible = false
+
+local cachedGameParts = {}
+local invisHighlight = nil
+
+local function loadAsset(id)
+	local ok, objects = pcall(game.GetObjects, game, "rbxassetid://" .. id)
+	if not ok or not objects or #objects == 0 then return nil end
+	return objects[1]:Clone()
+end
+
+local function getPlayerModel()
+	local playersFolder = workspace:FindFirstChild("Players")
+	return playersFolder and playersFolder:FindFirstChild(player.Name)
+end
+
+local function isTailsDoll()
+	local model = getPlayerModel()
+	return model and model:GetAttribute("Character") == "2011x"
+end
+
+local function updateCachedParts()
+	table.clear(cachedGameParts)
+	local oldVisual = getPlayerModel()
+	
+	local function addPartsFrom(parent)
+		if not parent then return end
+		for _, v in ipairs(parent:GetDescendants()) do
+			if v:IsA("BasePart") and not (currentMdl and v:IsDescendantOf(currentMdl)) then
+				table.insert(cachedGameParts, v)
+			end
+		end
+	end
+
+	addPartsFrom(character)
+	addPartsFrom(oldVisual)
+end
+
+-- Activa el tono rojo puro e intenso durante la habilidad de invisibilidad
+local function setCustomModelInvisible(invisible)
+	if not currentMdl then return end
+
+	if invisible then
+		-- Crear el Highlight rojo puro sin matices de verde o azul
+		if not invisHighlight or not invisHighlight.Parent then
+			invisHighlight = Instance.new("Highlight")
+			invisHighlight.Name = "InvisRedEffect"
+			invisHighlight.FillColor = Color3.fromRGB(255, 0, 0) -- Rojo puro
+			invisHighlight.FillTransparency = 0.4 -- Transparencia equilibrada
+			invisHighlight.OutlineColor = Color3.fromRGB(180, 0, 0)
+			invisHighlight.OutlineTransparency = 0.2
+			invisHighlight.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
+			invisHighlight.Parent = currentMdl
+		end
+
+		for _, v in ipairs(currentMdl:GetDescendants()) do
+			if v:IsA("BasePart") then
+				local origT = originalTransparencies[v] or 0
+				-- Mantiene ocultas las partes invisibles originales (cubos/hitboxes)
+				if origT < 0.9 and v.Name ~= "HumanoidRootPart" and v.Name ~= "Waist" then
+					v.Transparency = 0.45
+					v.Color = Color3.fromRGB(220, 0, 0) -- Rojo intenso
+				end
+			end
+		end
+	else
+		-- Quitar el efecto rojo y volver a las texturas y colores originales
+		if invisHighlight then
+			invisHighlight:Destroy()
+			invisHighlight = nil
+		end
+
+		for _, v in ipairs(currentMdl:GetDescendants()) do
+			if v:IsA("BasePart") or v:IsA("Decal") or v:IsA("Texture") then
+				local origT = originalTransparencies[v]
+				v.Transparency = origT ~= nil and origT or 0
+				
+				if v:IsA("BasePart") then
+					local origC = originalColors[v]
+					if origC then
+						v.Color = origC
+					end
+				end
+			elseif v:IsA("ParticleEmitter") or v:IsA("Trail") or v:IsA("Beam") then
+				v.Enabled = true
+			end
+		end
+	end
+end
+
+local function checkGameInvisibility()
+	local oldVisual = getPlayerModel()
+	local source = oldVisual or character
+	if not source then return false end
+
+	local invAttr = source:GetAttribute("Invisible") 
+		or source:GetAttribute("Invis") 
+		or source:GetAttribute("Stealth")
+		or player:GetAttribute("Invisible")
+	if invAttr ~= nil then
+		return invAttr == true
+	end
+
+	local transparentCount = 0
+	local totalCount = 0
+
+	for i = 1, #cachedGameParts do
+		local v = cachedGameParts[i]
+		if v and v.Parent then
+			local name = v.Name:lower()
+			if not name:find("root") and not name:find("waist") and not name:find("hitbox") then
+				totalCount = totalCount + 1
+				if v.Transparency > 0.5 then
+					transparentCount = transparentCount + 1
+				end
+			end
+		end
+	end
+
+	if totalCount > 0 then
+		return (transparentCount / totalCount) >= 0.5
+	end
+
+	return false
+end
+
+local function setupViewport()
+	task.spawn(function()
+		local viewportFrame = player.PlayerGui
+			:WaitForChild("Round", 30)
+			:WaitForChild("Game", 30)
+			:WaitForChild("SurvivorHP", 30)
+			:WaitForChild("ViewportFrame", 30)
+		if not viewportFrame then return end
+		local viewportModel = viewportFrame
+			:WaitForChild("WorldModel", 30)
+			:WaitForChild("Default", 30)
+		if not viewportModel then return end
+
+		local vpOverrideModel = nil
+		local function replaceViewportModel()
+			local ok, objects = pcall(game.GetObjects, game, "rbxassetid://" .. 81352974023012)
+			if not ok or #objects == 0 then return end
+			if vpOverrideModel and vpOverrideModel.Parent then
+				vpOverrideModel:Destroy()
+				vpOverrideModel = nil
+			end
+			local newModel = objects[1]:Clone()
+			vpOverrideModel = newModel
+			for _, part in ipairs(viewportModel:GetDescendants()) do
+				if part:IsA("BasePart") and part.Name ~= "HumanoidRootPart" then
+					part.Transparency = 1
+				end
+			end
+			local newHum = newModel:FindFirstChildOfClass("Humanoid")
+			if newHum then newHum:Destroy() end
+			for _, v in ipairs(newModel:GetDescendants()) do
+				if v:IsA("BasePart") then v.CanCollide = false end
+			end
+			newModel.Parent = viewportModel
+			local viewportHRP = viewportModel:FindFirstChild("HumanoidRootPart")
+			local primaryPart = newModel.PrimaryPart or newModel:FindFirstChildWhichIsA("BasePart")
+			if viewportHRP and primaryPart then
+				newModel:PivotTo(viewportHRP.CFrame)
+				primaryPart.Transparency = 1
+				local weld = Instance.new("WeldConstraint")
+				weld.Part0 = viewportHRP
+				weld.Part1 = primaryPart
+				weld.Parent = viewportHRP
+			end
+		end
+
+		replaceViewportModel()
+
+		viewportModel.DescendantAdded:Connect(function()
+			task.wait(0.1)
+			if not vpOverrideModel or not vpOverrideModel.Parent then
+				vpOverrideModel = nil
+				replaceViewportModel()
+			end
+		end)
+	end)
+end
+
+local function setupCharacter(char)
+	if not isScriptActive then return end
+	if syncConn then syncConn:Disconnect() syncConn = nil end
+	table.clear(originalTransparencies)
+	table.clear(originalColors)
+	isCurrentlyInvisible = false
+
+	if currentMdl and currentMdl.Parent then currentMdl:Destroy() currentMdl = nil end
+
+	local oldVisual = getPlayerModel()
+	local mdl = loadAsset(ASSET_ID)
+	if not mdl then return end
+
+	for _, v in ipairs(mdl:GetDescendants()) do
+		if v:IsA("BasePart") then
+			v.CanCollide = false
+			if v.Name == "HumanoidRootPart" or v.Name == "Waist" then
+				v.Transparency = 1
+			end
+			originalTransparencies[v] = v.Transparency
+			originalColors[v] = v.Color
+		elseif v:IsA("Decal") or v:IsA("Texture") then
+			originalTransparencies[v] = v.Transparency
+		end
+	end
+
+	if oldVisual then mdl.Parent = oldVisual else mdl.Parent = char end
+
+	local hrp = char:FindFirstChild("HumanoidRootPart")
+	local newHrp = mdl:FindFirstChild("HumanoidRootPart")
+	if not hrp or not newHrp then mdl:Destroy() return end
+
+	newHrp.Anchored = true
+	newHrp.Transparency = 1
+
+	local mdlHum = mdl:FindFirstChildOfClass("Humanoid")
+	if mdlHum then mdlHum:Destroy() end
+	local mdlAnim = mdl:FindFirstChildOfClass("Animator")
+	if mdlAnim then mdlAnim:Destroy() end
+
+	newHrp.CFrame = hrp.CFrame
+	currentMdl = mdl
+
+	updateCachedParts()
+
+	local function listenForChanges(parent)
+		if not parent then return end
+		parent.DescendantAdded:Connect(function(v)
+			if v:IsA("BasePart") and not (currentMdl and v:IsDescendantOf(currentMdl)) then
+				table.insert(cachedGameParts, v)
+			end
+		end)
+	end
+	listenForChanges(char)
+	listenForChanges(oldVisual)
+
+	syncConn = RunService.RenderStepped:Connect(function()
+		if not char.Parent or not hrp.Parent or not newHrp.Parent then
+			if syncConn then syncConn:Disconnect() syncConn = nil end
+			return
+		end
+
+		newHrp.CFrame = hrp.CFrame
+
+		for i = 1, #cachedGameParts do
+			local part = cachedGameParts[i]
+			if part and part.Parent then
+				part.LocalTransparencyModifier = 1
+			end
+		end
+
+		local shouldBeInvisible = checkGameInvisibility()
+		if shouldBeInvisible ~= isCurrentlyInvisible then
+			isCurrentlyInvisible = shouldBeInvisible
+			setCustomModelInvisible(isCurrentlyInvisible)
+		end
+	end)
+end
+
+local function startScript()
+	if isScriptActive then return end
+	task.wait(3)
+	isScriptActive = true
+	setupViewport()
+	if character then setupCharacter(character) end
+end
+
+local function stopScript()
+	if not isScriptActive then return end
+	isScriptActive = false
+	if syncConn then syncConn:Disconnect() syncConn = nil end
+	table.clear(originalTransparencies)
+	table.clear(originalColors)
+	table.clear(cachedGameParts)
+	if invisHighlight then invisHighlight:Destroy() invisHighlight = nil end
+	if currentMdl and currentMdl.Parent then currentMdl:Destroy() currentMdl = nil end
+	if character then
+		for _, v in ipairs(character:GetDescendants()) do
+			if v:IsA("BasePart") then v.LocalTransparencyModifier = 0 end
+		end
+	end
+end
+
+player.CharacterAdded:Connect(function(newChar)
+	character = newChar
+	if isScriptActive then
+		task.wait(1)
+		setupCharacter(newChar)
+		setupViewport()
+	end
+end)
+
+local isCurrentlyTailsDoll = false
+RunService.Heartbeat:Connect(function()
+	local check = isTailsDoll()
+	if check ~= isCurrentlyTailsDoll then
+		isCurrentlyTailsDoll = check
+		if isCurrentlyTailsDoll then startScript() else stopScript() end
+	end
+end)
+
+if isTailsDoll() then
+	isCurrentlyTailsDoll = true
+	startScript()
+end
